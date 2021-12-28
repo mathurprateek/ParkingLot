@@ -20,7 +20,7 @@
         * Enter "H" to "SEARCH" your vehicle(s)
         * Enter "Q" to "QUIT" Parking Lot Application
 
-![cmd_code_run_example](cmd_code_run_example.jpg)
+![cmd_code_run_example](images/cmd_code_run_example.jpg)
 
 #### PARKING example
 * Enter Registration Number (mandatory)
@@ -62,6 +62,6 @@
      * Enter TOTAL #SLOTS in parking area = **8**
      * Mention Parking ENTRY GATE number(s) (space separated) = **1 5 8**
 
-![Run_Test_Cases](Run_Test_Cases.jpg)
+![Run_Test_Cases](images/Run_Test_Cases.jpg)
 
-![test_coverage](test_cases_covrage.jpg)
+![test_coverage](images/test_cases_covrage.jpg)
